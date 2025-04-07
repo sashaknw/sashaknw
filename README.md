@@ -51,7 +51,7 @@ const developer = {
         </p>
         <p align="center">
           <a href="https://vintage-vault-shop.netlify.app/" target="_blank">
-            <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1744008373/vintagevault_gifpreadme_gqnzqr.gif" width="80%" alt="vintage-vault-gif"/>
+            <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1744009294/vintagevault_gifpreadme_ngwn5n.gif" width="80%" alt="vintage-vault-gif"/>
           </a>
           <p align="center">
             <a href="https://github.com/sashaknw/vintage-frontend" target="_blank">
