@@ -50,7 +50,7 @@ const developer = {
          <p align="center"><strong>Vintage clothing store & forum with AI moderator 
         </p>
         <p align="center">
-          <a href="https://github.com/yourusername/project1" target="_blank">
+          <a href="https://vintage-vault-shop.netlify.app/" target="_blank">
             <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1744007695/vintagevault_gifpreadme_m6dluz.gif" width="80%" alt="vintage-vault-gif"/>
           </a>
           <p align="center">
@@ -83,11 +83,11 @@ const developer = {
         <p align="center"><strong>Online record store 
         </p>
         <p align="center">
-          <a href="https://github.com/sashaknw/ReadySetGo" target="_blank">
+          <a href="https://trancemania-records.netlify.app/" target="_blank">
             <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1743958596/trancemania_gifreadme_elq28w.gif" width="80%" alt="trancemania-gif"/>
           </a>
           <p align="center">
-            <a href="https://github.com/sashaknw/ReadySetGo" target="_blank">
+            <a href="https://github.com/sashaknw/frontend" target="_blank">
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
             </a>
             <a href="https://trancemania-records.netlify.app/" target="_blank">
@@ -112,7 +112,7 @@ const developer = {
          <p align="center"><strong>Browser game with pixel art graphics, meteor dodging mechanics and level progression
         </p>
         <p align="center">
-          <a href="https://github.com/sashaknw/game-try1" target="_blank">
+          <a href="https://sashaknw.github.io/game-try1/" target="_blank">
             <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1744007384/dinorun_gifreadme_e1a8ht.gif" width="80%" alt="dino-run-gif"/>
           </a>
           <p align="center">
@@ -134,7 +134,7 @@ const developer = {
           <p align="center"><strong>Developed as a group project, it's a satire page about space travel
         </p>
         <p align="center">
-          <a href="https://github.com/sashaknw/Space-Journey-Project" target="_blank">
+          <a href="https://sashaknw.github.io/Space-Journey-Project/" target="_blank">
             <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1744007219/spacejourney_gifreadme_oeol3o.gif" width="80%" alt="space-journey-gif"/>
           </a>
           <p align="center">
