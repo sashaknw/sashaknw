@@ -51,7 +51,7 @@ const developer = {
         </p>
         <p align="center">
           <a href="https://vintage-vault-shop.netlify.app/" target="_blank">
-            <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1744007695/vintagevault_gifpreadme_m6dluz.gif" width="80%" alt="vintage-vault-gif"/>
+            <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1744008373/vintagevault_gifpreadme_gqnzqr.gif" width="80%" alt="vintage-vault-gif"/>
           </a>
           <p align="center">
             <a href="https://github.com/sashaknw/vintage-frontend" target="_blank">
@@ -113,7 +113,7 @@ const developer = {
         </p>
         <p align="center">
           <a href="https://sashaknw.github.io/game-try1/" target="_blank">
-            <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1744007384/dinorun_gifreadme_e1a8ht.gif" width="80%" alt="dino-run-gif"/>
+            <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1744008502/dinorun_gifreadme_zkv9jk.gif" width="80%" alt="dino-run-gif"/>
           </a>
           <p align="center">
             <a href="https://github.com/sashaknw/game-try1" target="_blank">
@@ -135,7 +135,7 @@ const developer = {
         </p>
         <p align="center">
           <a href="https://sashaknw.github.io/Space-Journey-Project/" target="_blank">
-            <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1744007219/spacejourney_gifreadme_oeol3o.gif" width="80%" alt="space-journey-gif"/>
+            <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1744008816/spacejourney_gifreadme_rnxr1x.gif" width="80%" alt="space-journey-gif"/>
           </a>
           <p align="center">
             <a href="https://github.com/sashaknw/Space-Journey-Project" target="_blank">
