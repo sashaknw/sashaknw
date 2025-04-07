@@ -113,7 +113,7 @@ const developer = {
         </p>
         <p align="center">
           <a href="https://sashaknw.github.io/game-try1/" target="_blank">
-            <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1744008502/dinorun_gifreadme_zkv9jk.gif" width="80%" alt="dino-run-gif"/>
+            <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1744009163/dinorun_gifreadme_bfd4nz.gif" width="80%" alt="dino-run-gif"/>
           </a>
           <p align="center">
             <a href="https://github.com/sashaknw/game-try1" target="_blank">
@@ -135,7 +135,7 @@ const developer = {
         </p>
         <p align="center">
           <a href="https://sashaknw.github.io/Space-Journey-Project/" target="_blank">
-            <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1744008816/spacejourney_gifreadme_rnxr1x.gif" width="80%" alt="space-journey-gif"/>
+            <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1744009043/spacejourney_gifreadme_stofbn.gif" width="80%" alt="space-journey-gif"/>
           </a>
           <p align="center">
             <a href="https://github.com/sashaknw/Space-Journey-Project" target="_blank">
