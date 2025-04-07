@@ -13,11 +13,13 @@ const developer = {
   availableForHire: true,
   education: "MODERN LANGUAGES DEGREE", "BOOTCAMPS: Full Stack Developer by Ironhack and Reboot Academy"
   interests: ["Web Development", "UI/UX Design", "Open Source", "AI"],
-  hobbies: ["DJing", "Writing", "Arts & Crafts"],
+  hobbies: ["Writing", "Arts & Crafts", "DJing"],
   motivation: "Building digital spaces that stand out"
 };
 ```
+<div align="center">
 <img src="https://media.giphy.com/media/u6abG1EmZciv6/giphy.gif?cid=790b7611i024s48om0gbji6npgsw54plb162qynzorru9s3m&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
+</div>
 
 ## ☂️ Tech Stack ☂️
 
@@ -49,7 +51,7 @@ const developer = {
         </p>
         <p align="center">
           <a href="https://github.com/yourusername/project1" target="_blank">
-            <img src="https://s8.ezgif.com/tmp/ezgif-836bdea0ae64aa.gif" width="80%" alt="vintage-vault-gif"/>
+            <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1744007695/vintagevault_gifpreadme_m6dluz.gif" width="80%" alt="vintage-vault-gif"/>
           </a>
           <p align="center">
             <a href="https://github.com/sashaknw/vintage-frontend" target="_blank">
@@ -82,7 +84,7 @@ const developer = {
         </p>
         <p align="center">
           <a href="https://github.com/sashaknw/ReadySetGo" target="_blank">
-            <img src="https://s8.ezgif.com/tmp/ezgif-8a840472ec09db.gif" width="80%" alt="trancemania-gif"/>
+            <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1743958596/trancemania_gifreadme_elq28w.gif" width="80%" alt="trancemania-gif"/>
           </a>
           <p align="center">
             <a href="https://github.com/sashaknw/ReadySetGo" target="_blank">
@@ -111,7 +113,7 @@ const developer = {
         </p>
         <p align="center">
           <a href="https://github.com/sashaknw/game-try1" target="_blank">
-            <img src="https://s8.ezgif.com/tmp/ezgif-813f56e2bc39a3.gif" width="80%" alt="dino-run-gif"/>
+            <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1744007384/dinorun_gifreadme_e1a8ht.gif" width="80%" alt="dino-run-gif"/>
           </a>
           <p align="center">
             <a href="https://github.com/sashaknw/game-try1" target="_blank">
@@ -133,7 +135,7 @@ const developer = {
         </p>
         <p align="center">
           <a href="https://github.com/sashaknw/Space-Journey-Project" target="_blank">
-            <img src="https://s7.ezgif.com/tmp/ezgif-73e0b124594db2.gif" width="100%" alt="Project 4"/>
+            <img src="https://res.cloudinary.com/dlkmeyasv/image/upload/v1744007219/spacejourney_gifreadme_oeol3o.gif" width="80%" alt="space-journey-gif"/>
           </a>
           <p align="center">
             <a href="https://github.com/sashaknw/Space-Journey-Project" target="_blank">
